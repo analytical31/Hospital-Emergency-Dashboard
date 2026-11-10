@@ -35,5 +35,5 @@ Patient Satisfaction Score-
 Attendance Performance-
 On-Time vs Delayed</br>
 
-
+-<a href="https://github.com/analytical31/Hospital-Emergency-Dashboard/blob/main/HospitalReport.pbix" > Hospital-Emergency-Room-Dashboard </a> </br>
 
