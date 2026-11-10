@@ -40,3 +40,16 @@ On-Time vs Delayed</br>
 
 <img width="1323" height="745" alt="Screenshot 2026-11-10 151931" src="https://github.com/user-attachments/assets/f26d008f-355c-447a-9805-f53fa9dc2900" />
 
+## Tools & Technologies Used</br>
+Power BI</br>
+Power Query</br>
+DAX (Data Analysis Expressions)</br>
+Excel / CSV Dataset</br>
+Data Modeling</br>
+Data Visualization</br>
+## Business Insights</br>
+Majority of patients experienced delays in attendance, indicating opportunities for process optimization.</br>
+The 20-29 age group recorded the highest number of ER visits.</br>
+General Practice received the highest number of referrals among all departments.</br>
+Patient wait time trends can help management improve healthcare service delivery.</br>
+Gender distribution remains relatively balanced across patient visits.</br>
