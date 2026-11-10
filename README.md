@@ -37,3 +37,6 @@ On-Time vs Delayed</br>
 
 -<a href="https://github.com/analytical31/Hospital-Emergency-Dashboard/blob/main/HospitalReport.pbix" > Hospital-Emergency-Room-Dashboard </a> </br>
 
+
+<img width="1323" height="745" alt="Screenshot 2026-11-10 151931" src="https://github.com/user-attachments/assets/f26d008f-355c-447a-9805-f53fa9dc2900" />
+
